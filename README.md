@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @niyangbai
+- 👀 I’m interested in Economic Modeling and policy evaluation
+- 🌱 I’m a 2nd-year soon to graduate student at the University of Bonn
+- 💻 I’m comfortable coding in Python, R, MATLAB and Stata.
